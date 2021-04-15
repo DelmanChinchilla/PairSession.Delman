@@ -1,0 +1,9 @@
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\bin\Debug\netcoreapp3.1\PairSession.deps.json
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\bin\Debug\netcoreapp3.1\PairSession.dll
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\bin\Debug\netcoreapp3.1\PairSession.pdb
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\obj\Debug\netcoreapp3.1\PairSession.csprojAssemblyReference.cache
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\obj\Debug\netcoreapp3.1\PairSession.AssemblyInfoInputs.cache
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\obj\Debug\netcoreapp3.1\PairSession.AssemblyInfo.cs
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\obj\Debug\netcoreapp3.1\PairSession.csproj.CoreCompileInputs.cache
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\obj\Debug\netcoreapp3.1\PairSession.dll
+C:\Users\delman.chinchilla\source\repos\PairSession\PairSession\obj\Debug\netcoreapp3.1\PairSession.pdb
